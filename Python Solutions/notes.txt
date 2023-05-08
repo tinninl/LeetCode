@@ -1,0 +1,37 @@
+Lists []
+
+ordered, changeable, allow duplicate values
+
+can contain DIFFERENT datatypes
+
+methods: len(), type()
+
+
+
+Tuples ()
+
+ordered, unchangeable, allow duplicate values
+
+can contain DIFFERENT datatypes
+
+
+
+Sets {}
+
+unordered, unchangeable, unindexed, NO dups
+
+can still remove/add things,
+
+NOTE: 1 and True are considered the same value in sets, same with 0 and False
+
+
+
+Dictionaries {}
+
+key value pairs
+
+ordered, changeable, and does not allow duplicate keys.
+
+
+
+
